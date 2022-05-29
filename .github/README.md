@@ -1,4 +1,4 @@
-# Astral 2010 MASM32 crackme2
+# ASTRAL 2010 MASM32 Crackme2
 
 #### Written in November 2000.
 
